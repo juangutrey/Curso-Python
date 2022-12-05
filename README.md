@@ -1,1 +1,1 @@
-# Curso Inersemestral Phython
+# Curso Intersemestral Phython
